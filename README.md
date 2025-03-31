@@ -1,2 +1,1 @@
-# Nueva
-esperemos que esta actividad funcione
+si esto se lee es porque la actividad puedo completarse
